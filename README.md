@@ -12,24 +12,16 @@ Nível - <strong>Iniciante</strong> 👶
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=MagJS&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagJS&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 
-<!--
 ## Contato
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/maykbrito" target="_blank">
+<!--<a href="https://twitter.com/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>-->
+<a href="https://www.linkedin.com/in/guilherme-silva-215581252/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-MAG-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+<a href="https://www.youtube.com/@mag_dev" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-MAG-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
--->
+
