@@ -1,7 +1,7 @@
 ## Estudante de Programação
 Nível - <strong>Iniciante</strong> 👶
 
-<img align ="right" src = "https://cdn.discordapp.com/attachments/751571192795627710/1091121734977060894/magsound2.png"/>
+<img align ="center" src = "https://cdn.discordapp.com/attachments/751571192795627710/1091121734977060894/magsound2.png"/>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
